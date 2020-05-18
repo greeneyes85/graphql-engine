@@ -247,6 +247,7 @@ library
                      , Hasura.Session
 
                      , Data.Aeson.Ordered
+                     , Data.Environment
 
   other-modules:       Hasura.Incremental.Select
                      , Hasura.Incremental.Internal.Cache
